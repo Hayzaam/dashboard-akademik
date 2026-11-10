@@ -1,16 +1,13 @@
-# React + Vite
+# Responsi 1 - Dashboard Data Mahasiswa & Akademik
+**Nama:** Abdullah Habib
+**NIM:** 2511501001
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## Deskripsi Proyek
+Dashboard Admin interaktif berbasis React 19 yang melayani fitur CRUD (Create, Read, Update, Delete) secara client-side untuk mengelola data akademik mahasiswa, lengkap dengan fitur pencarian (filter) dan modal input.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Panduan Menjalankan Proyek
+1. Clone repositori: `git clone <link-github>`
+2. Masuk ke direktori: `cd dashboard-akademik`
+3. Instal dependencies: `npm install`
+4. Jalankan server lokal: `npm run dev`
+5. Buka tautan lokal (biasanya `http://localhost:5173`) di browser.
